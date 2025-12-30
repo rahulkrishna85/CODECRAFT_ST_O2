@@ -69,3 +69,15 @@ Mobile          minor issue
 
 ** Issue Details**
 -On mobile view,some product images appear slightly compressed
+
+--------------------------------
+
+## FINDINGS
+During cross_browser and cross_device testing,following issue were found:
+-Minor front rendering difference in ** firefox**
+-Slight spacing issue in product cards on ** safari(tab/mobile)
+-product image looks slight compressed on ** mobile devices **
+
+## No broken links or major functional issues were found.
+
+
